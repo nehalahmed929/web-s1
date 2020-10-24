@@ -1,0 +1,173 @@
+.nav-link:hover {
+  color: #ffc722 !important;
+}
+
+.nav-link {
+  padding-left: 35px !important;
+  color: black !important;
+}
+
+.logo {
+  color: black;
+  font-weight: 400;
+}
+nav {
+  background: white !important;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
+.logo:hover {
+  text-decoration: none;
+  color: black;
+}
+
+header .container-fluid {
+  border-bottom: rgba(0, 0, 0, 0.137) 1px solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.content {
+  background: rgb(216, 216, 216);
+}
+
+.card-comments {
+  border-top: solid rgba(0, 0, 0, 0.11) 1px;
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.card-comments p {
+  font-size: 12px;
+  color: rgba(128, 128, 128, 0.63);
+  margin: 0;
+}
+
+.mycard .card-title {
+  font-size: 16px;
+  font-weight: 700px;
+}
+
+.mycard .card-text {
+  font-size: 14px;
+}
+
+.card-content {
+  padding: 30px;
+  padding-bottom: 10px;
+}
+.mycard {
+  border: solid 1px #ffc722;
+  margin-bottom: 20px;
+}
+
+.mycard .read-more a {
+  color: #ffc722;
+  text-decoration: none;
+}
+
+.card-ribbon {
+  background: #ffc722;
+  border-radius: 18px;
+  position: absolute;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  right: 10px;
+  top: 10px;
+  color: white;
+  font-size: 12px;
+  font-weight: 700px;
+}
+
+.search-row {
+  border: solid 2px #ffc722;
+}
+
+.search-row input {
+  width: 100%;
+  height: 40px;
+  border: none;
+  margin: 0;
+}
+
+.search-row input::placeholder {
+  padding-left: 20px;
+}
+
+.search-icon {
+  background: #ffc722;
+  color: white;
+}
+
+.cats a {
+  color: #ffc722;
+  text-decoration: none;
+}
+.cats a:hover {
+  color: black;
+}
+
+.social-icons li i {
+  color: white;
+  border-radius: 70%;
+  padding: 15px;
+  /* margin-right: px; */
+}
+
+.fb {
+  background: #4c67a0;
+}
+
+.insta {
+  background: #000000bd;
+}
+
+.pin {
+  background: #c01d2f;
+}
+
+.linked {
+  background: #2767b1;
+}
+
+.form input {
+  width: 80%;
+  height: 40px;
+  margin-bottom: 20px;
+  border: 1px solid rgba(128, 128, 128, 0.445);
+}
+
+.form input::placeholder {
+  padding-left: 10px;
+  color: rgba(128, 128, 128, 0.815);
+}
+
+button {
+  color: white !important;
+  border-radius: 0px !important;
+}
+
+button:hover {
+  background: rgba(0, 0, 0, 0.863) !important;
+}
+
+.upper-footer div {
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.upper-footer {
+  background: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.lower-footer {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: black;
+  background: #ffc722;
+  text-align: center;
+}
